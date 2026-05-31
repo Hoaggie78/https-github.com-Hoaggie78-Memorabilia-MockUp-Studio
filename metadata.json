@@ -1,0 +1,6 @@
+{
+  "name": "Memorabilia Mockup Studio",
+  "description": "An interactive apparel design previewer that allows uploading custom PNG print designs and placing them on t-shirts, sweatshirts, and ballcaps with adjustable scale, rotation, and alignment controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
